@@ -78,6 +78,4 @@ Login Successful! Zain
 
 This project is **open-source** and available under the [MIT License](LICENSE).
 
----
-
 Would you like me to make it include a **section for unknown users (account creation)** version instead of only predefined users?
